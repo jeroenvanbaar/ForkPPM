@@ -1,14 +1,14 @@
 .reveal .slides section:last-child {
-    background: url('../../images/LastSlide.png') no-repeat, url('../images/Brainzzz.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png') no-repeat, url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png') no-repeat;
     background-size: cover, cover;
 }
 
 .reveal.slides .slides section:last-child {
-    background: url('../../images/LastSlide.png') no-repeat, url('../images/Brainzzz.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png') no-repeat, url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png') no-repeat;
     background-size: cover, cover;
 }
 
 .reveal.slides:last-child {
-    background: url('../../images/LastSlide.png') no-repeat, url('../images/Brainzzz.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png') no-repeat, url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png') no-repeat;
     background-size: cover, cover;
 }
