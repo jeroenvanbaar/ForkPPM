@@ -1,4 +1,4 @@
 section:last-child {
-	background: url('../LastSlide.png') no-repeat, url('../Brainzzz.png') no-repeat;
+	background: url('../images/LastSlide.png') no-repeat, url('../images/Brainzzz.png') no-repeat;
 	background-size: cover, cover;
 }
