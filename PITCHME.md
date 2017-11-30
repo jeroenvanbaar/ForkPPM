@@ -1,7 +1,7 @@
 # Fork Request 
 ## PPM, December 32, 2017
 
----?image=stylesheet/FrontSlide.png
+---
 
 # Background
 
