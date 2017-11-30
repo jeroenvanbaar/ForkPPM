@@ -45,6 +45,6 @@ We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io
 +++
 By means of an ANOVA, we will determine the F value, better known as fork value, and if F < F_crit we will conclude that 
 
----
+---?image=stylesheet/Brainzzz.png
 
 # Scientific Contribution
