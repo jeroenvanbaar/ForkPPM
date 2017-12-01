@@ -27,7 +27,7 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
-![Video](https://youtu.be/MaGSG7Lselk?t=6s)
+![Video](https://www.youtube.com/watch?v=MaGSG7Lselk&feature=youtu.be&t=6s)
 
 ---
 
