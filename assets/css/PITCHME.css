@@ -53,3 +53,8 @@
 .reveal p {
     margin: 20px 100px;
 }
+
+/* img */
+.reveal section img {
+    border: 1px solid #AAAAAA;
+}
