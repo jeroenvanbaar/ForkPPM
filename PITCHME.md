@@ -11,13 +11,12 @@
 https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
-### No width & height
+### No width & height markdown
 ![donders image alt text](http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png)
 
 +++
-### width height
-![donders image alt text](http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png =400x256)
-
+### width height html syntax
+<img src='http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png' width=400 height=256/>
 ---
 
 # Experimental Question
