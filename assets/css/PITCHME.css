@@ -7,14 +7,17 @@
 .reveal.slides:last-child {
 }
 
-.reveal[data-background-transition=slide] > .backgrounds .slide-background:first-child{
-    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png');
-    background-size: cover;
-}
+
 .reveal[data-background-transition=slide] > .backgrounds .slide-background{
     background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Background.png');
     background-size: cover;
 }
+
+.reveal[data-background-transition=slide] > .backgrounds .slide-background:first-child{
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png');
+    background-size: cover;
+}
+
 .reveal[data-background-transition=slide] > .backgrounds .slide-background:last-child{
     background: url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png) no-repeat,
                 url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png) no-repeat;
