@@ -8,13 +8,13 @@
 }
 
 
-.reveal[data-background-transition=slide] > .backgrounds .slide-background{
-    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Background.png');
+.reveal .backgrounds .slide-background{
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Background.png') no-repeat;
     background-size: cover;
 }
 
 .reveal[data-background-transition=slide] > .backgrounds .slide-background:first-child{
-    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png');
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png') no-repeat;
     background-size: cover;
 }
 
