@@ -1,0 +1,25 @@
+.reveal .slides section:last-child {
+}
+
+.reveal.slides .slides section:last-child {
+}
+
+.reveal.slides:last-child {
+}
+
+
+.reveal .backgrounds > .slide-background{
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Background.png') no-repeat;
+    background-size: cover;
+}
+
+.reveal .backgrounds > .slide-background:first-child{
+    background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png') no-repeat;
+    background-size: cover;
+}
+
+.reveal .backgrounds > .slide-background:last-child{
+    background: url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png) no-repeat,
+                url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png) no-repeat;
+    background-size: contain, cover;
+}
