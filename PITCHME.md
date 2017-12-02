@@ -10,7 +10,7 @@
 
 https://doi.org/10.1136/bmj.331.7531.1498
 
----?image=images/Background.png
+---
 
 # Experimental Question
 +++
@@ -19,13 +19,13 @@ https://doi.org/10.1136/bmj.331.7531.1498
  - We found this in our earliest study (Van Mourik et al. 2014, in prep.) This result has been replicated twice,
  see (grant numbers [RIC Fall 2015](https://docs.google.com/document/d/15jg1YHpHG_-xchWnq9zHXQoU33K2eqEI97rbhe0TdVI), [RIC Fall 2016](https://docs.google.com/document/d/1JwDWR4ktyRerZ78i_v9WBSoHi2pvvsan2ejlBvIaXpU), unpublished).
 
----?image=images/Background.png
+---
 
 # Materials & Methods
 - Lame joke about GitHub forks.
 - Comparative analysis with the spork
 
----?image=images/Background.png
+---
 
 # Procedure & Subjects
 
@@ -38,7 +38,7 @@ Equipment: 200 * ± €1 (plus some spare ones, perhaps) + plus the cost of GPS 
 We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. We will ask ethical approval for animal research and request Da Betty e Mora to cook more Chinese.
 
 
----?image=images/Background.png
+---
 
 # Data Analysis
 
