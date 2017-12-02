@@ -49,3 +49,7 @@
 .reveal a:visited{
     color: #E80C0D;
 }
+
+.reveal p {
+    margin: 20px 100px;
+}
