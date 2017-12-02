@@ -16,7 +16,7 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 ### width height html syntax
-<img src='http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png' width=400 height=256/>
+<img alt-text="molecule to population" src='http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png' width=400 height=256/>
 ---
 
 # Experimental Question
