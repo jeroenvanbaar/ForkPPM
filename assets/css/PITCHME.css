@@ -13,12 +13,12 @@
     background-size: cover;
 }
 
-.reveal[data-background-transition=slide] > .backgrounds .slide-background:first-child{
+.reveal .backgrounds .slide-background:first-child{
     background: url('https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/FirstSlide.png') no-repeat;
     background-size: cover;
 }
 
-.reveal[data-background-transition=slide] > .backgrounds .slide-background:last-child{
+.reveal .backgrounds .slide-background:last-child{
     background: url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/LastSlide.png) no-repeat,
                 url(https://raw.githubusercontent.com/Elaniobro/ForkPPM/master/images/Brainzzz.png) no-repeat;
     background-size: contain, cover;
