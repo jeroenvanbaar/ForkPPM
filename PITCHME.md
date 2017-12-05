@@ -41,7 +41,7 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 ## Fork by yourself, shame on you.  
 ### Fork with a friend, now we're getting somewhere.
-![Image](https://openclipart.org/image/800px/svg_to_png/260813/restaurant-15.png&size=auto15%)
+![Image](https://openclipart.org/image/800px/svg_to_png/260813/restaurant-15.png&size=contain)
 
 
 +++
