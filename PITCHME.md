@@ -30,7 +30,7 @@ Van Mourik et al. 2014, in prep.
 
 +++
 
-# #TeamScience.
+### #TeamScience.
 
 - Collaborative project (published as: Donders Institute)
 - Post request to work on this collaboratively on Facebook
@@ -95,7 +95,7 @@ Van Mourik et al. 2014, in prep.
 
 +++
 
--Multi-way ANOVA, we determine the F value (fork value)
+- Multi-way ANOVA, we determine the F value (fork value)
   - If F < F_crit we need more forks
   - Covariates: food preference, spoon shortage, etc.
 
@@ -121,10 +121,11 @@ fork_loc = ft_findForks(forks, lost_at);
 
 +++
 
-# What we learnt from this process
+# What we learn(t) from this process
 - We built a presentation template (GitPitch)
   - easily create minimal online presentation
 - Technical issues can easily be outsourced (GitCoin)
+- More understanding on the whereabouts of missing forks
 
 ---
 
