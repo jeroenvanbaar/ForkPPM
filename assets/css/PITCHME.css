@@ -31,8 +31,8 @@
     color: #000000;
     -webkit-text-stroke: 1px;
     -moz-text-stroke: 1px;
-    -webkit-text-stroke-color: rgba(255, 255, 255, 0.85);
-    -moz-text-stroke-color: rgba(255, 255, 255, 0.85);
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.25);
+    -moz-text-stroke-color: rgba(255, 255, 255, 0.25);
 }
 
 .reveal h1 {
