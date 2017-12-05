@@ -71,41 +71,33 @@ Van Mourik et al. 2014, in prep.
 
 # GitHub Forks
 
-- F@!king a repo is a legitimate software terminology
-- If DCCN employees 
-
-+++
-
-## "F@!king Repos..."
-- It refers to taking a copy of another person or group's software so as to continue development independently
-- The intention to contribute the change back at a later date is possible
-- It is also possible to represent a split / schism in the developer community, with different aims
-- It validates the user's software as being useful
-- Also shows that you want to help continue it's development, and often voluntarily
+- Github is important for scientists
+- F@!king a repository is a legitimate software terminology
+  - Meaning: making a branch for you to work on
+  - Version controlled
 
 ---
 
 # Procedure & Subjects
 
 +++
-
+# We need:
 - Equipment: 200 forks * ± €1
 - The cost of GPS trackers, cost unknown
 - Maybe the CNS department wants to chip in, as they’re also using the kitchen.
-
-+++
-
-- We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. 
-  - We will ask ethical approval for animal research 
-  - We will request Da Betty e Mora to cook more Chinese
+- Quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. 
+  - Ethical approval for animal research 
+  - Request Da Betty e Mora to cook more Chinese
 
 ---
 
 # Data Analysis
 
 +++
+
 -Multi-way ANOVA, we determine the F value (fork value)
-  - If F < F_crit we will conclude that ...
+  - If F < F_crit we need more forks
+  - Covariates: food preference, spoon shortage, etc.
 
 +++
 
