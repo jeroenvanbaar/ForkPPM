@@ -8,8 +8,8 @@
 +++
 
 ## In two faire Branches forking fruitfully...
-1605 J. Sylvester wrote the earliest known example of this particular fork as a verb
-- This fact requires verifaction and might be rather alternative
+- 1605 J. Sylvester wrote the earliest known example of this particular fork as a verb
+  - This fact requires verifaction and might be rather alternative
 
 +++
 
@@ -22,7 +22,20 @@
 
 +++
 
-#TeamScience. The is a collaborative effort. The outcomes of the research will be published as a team science effort by the Donders Institute.
+Preliminary result:
+![](https://raw.githubusercontent.com/TimVanMourik/ForkPPM/master/images/ForkFace.png)
+
++++
+
+#TeamScience. 
+This a collaborative effort. The outcomes of the research will be published as a team science effort by the Donders Institute.
+
+- Post request to work on this collaboratively on Facebook
+- GitHub open source repository
+- Null result, zero DCCN interest
+  - H0: Diffusion of responsibility
+  - H1: People actually have a life
+- Posted Bitcoin bounties (0.09 Ether, <30 bucks at the time of posting)
 
 +++
 ### No width & height markdown
@@ -40,9 +53,6 @@
 
 ---
 # Materials & Methods
-- Post request to work on this collaboratively
-  - We suspect diffusion of responsibility
-  - or people actually have a life
 
 +++
 
@@ -98,21 +108,17 @@
 # Data Analysis
 
 +++
-By means of an ANOVA, we will determine the F value, better known as fork value, and if F < F_crit we will conclude that 
+-Multi-way ANOVA, we determine the F value (fork value)
+  - If F < F_crit we will conclude that ...
 
 +++
 
 MATLAB could not find them either:
 ```MATLAB
-fork_loc = ft_findForks(forks);
-Undefined function or variable 'forks'.
+lost_at = 'DondersInstitute'
+fork_loc = ft_findForks(forks, lost_at);
 ```
 [Undefined function or variable 'forks'.]()
-
-```python
-s = "Python syntax highlighting"
-print
-```
 
 ---
 # Scientific Contribution
