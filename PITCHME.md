@@ -1,14 +1,28 @@
-# Fork Request 
-## PPM, December 2017
+# On tridental (non-)ferromagnetic gourmandization instruments
+## PPM, December 7, 2017
 
 ---
 
 # Background
 
 +++
-#TeamScience. The is a collaborative effort. The outcomes of the research will be published as a team science effort by the Donders Institute.
 
-https://doi.org/10.1136/bmj.331.7531.1498
+## In two faire Branches forking fruitfully...
+1605 J. Sylvester wrote the earliest known example of this particular fork as a verb
+- This fact requires verifaction and might be rather alternative
+
++++
+
+- "The half life of the teaspoons was 81 days." [Aitken 2005](https://doi.org/10.1136/bmj.331.7531.1498)
+- We lost 95% over 365 days (Van Mourik et al. 2014, in prep.) 
+- Equivalent with fork half life of 84.5 days
+- This result has been replicated twice
+  - grant number [RIC Fall 2015](https://docs.google.com/document/d/15jg1YHpHG_-xchWnq9zHXQoU33K2eqEI97rbhe0TdVI) 
+  - grant number [RIC Fall 2016](https://docs.google.com/document/d/1JwDWR4ktyRerZ78i_v9WBSoHi2pvvsan2ejlBvIaXpU)
+
++++
+
+#TeamScience. The is a collaborative effort. The outcomes of the research will be published as a team science effort by the Donders Institute.
 
 +++
 ### No width & height markdown
@@ -23,36 +37,30 @@ https://doi.org/10.1136/bmj.331.7531.1498
 +++
 - We hypothesise that the FFA has always been an acronym for the Fusiform Fork Area.
 - After exploratory research we estimated the half-life of forks to be ...
- - We found this in our earliest study (Van Mourik et al. 2014, in prep.) This result has been replicated twice,
- see (grant numbers [RIC Fall 2015](https://docs.google.com/document/d/15jg1YHpHG_-xchWnq9zHXQoU33K2eqEI97rbhe0TdVI), [RIC Fall 2016](https://docs.google.com/document/d/1JwDWR4ktyRerZ78i_v9WBSoHi2pvvsan2ejlBvIaXpU), unpublished).
 
 ---
-
 # Materials & Methods
-- Lame joke about GitHub forks.
-- Comparative analysis with the spork
+- Post request to work on this collaboratively
+  - We suspect diffusion of responsibility
+  - or people actually have a life
 
 +++
 
-## "F!@king Repos..."
+# Little
+![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
+
+
++++
+
+## "F@!king Repos..."
 - Forking a repo is a legitimate software terminology
 - It refers to taking a copy of another person or group's software so as to continue development independently
 
 +++
 
-## May the forks be with you
 - The intention to contribute the change back at a later date is possible
 - It is also possible to represent a split / schism in the developer community, with different aims
 
-+++
-
-## Fork by yourself, shame on you.  
-### Fork with a friend, now we're getting somewhere.
-
-
-+++
-
-![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
 
 +++
 
@@ -62,10 +70,6 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
-## In two faire Branches forking fruitfully...
-1605 J. Sylvester wrote the earliest known example of this particular fork as a verb...
-
-+++
 
 ## Don't forget about sporks...
 
@@ -79,17 +83,15 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
-Equipment: 200 * ± €1 (plus some spare ones, perhaps) + plus the cost of GPS trackers, cost unknown. Maybe the CNS department wants to chip in, as they’re also using the kitchen.
+- Equipment: 200 forks * ± €1
+- The cost of GPS trackers, cost unknown. 
+- Maybe the CNS department wants to chip in, as they’re also using the kitchen.
 
 +++
 
-We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. We will ask ethical approval for animal research and request Da Betty e Mora to cook more Chinese.
-
-
-+++
-
-![Video](https://www.youtube.com/embed/4cSdEGK_G_U)
-
+- We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. 
+  - We will ask ethical approval for animal research 
+  - We will request Da Betty e Mora to cook more Chinese
 
 ---
 
@@ -99,10 +101,13 @@ We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io
 By means of an ANOVA, we will determine the F value, better known as fork value, and if F < F_crit we will conclude that 
 
 +++
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+
+MATLAB could not find them either:
+```MATLAB
+fork_loc = ft_findForks(forks);
+Undefined function or variable 'forks'.
 ```
+[Undefined function or variable 'forks'.]()
 
 ```python
 s = "Python syntax highlighting"
@@ -112,6 +117,13 @@ print
 ---
 # Scientific Contribution
 
++++
+
+# What we learnt from this process
+- We built a presentation template (GitPitch)
+  - easily create minimal online presentation
+- Technical issues can easily be outsourced (GitCoin)
+
 ---
 
-# Thank you!
+# May the forks be with you!
