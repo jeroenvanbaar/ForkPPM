@@ -27,6 +27,27 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
+## "Forking Repos..."
+- Forking a repo is a legitimate software terminology
+- It refers to taking a copy of another person or group's software so as to continue development independently
+
+---
+
++++
+
+## May the forks be with you
+- The intention to contribute the change back at a later date is possible
+- It is also possible to represent a split / schism in the developer community, with different aims
+---
+
++++
+
+## Fork by yourself, shame on you.  Fork with a friend, now we're getting somewhere.
+
+---
+
++++
+
 ![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
 
 ---
