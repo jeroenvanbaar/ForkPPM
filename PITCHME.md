@@ -1,6 +1,14 @@
 # On tridental (non-)ferromagnetic gourmandization instruments
 ## PPM, December 7, 2017
 
++++
+
+![case of the missing fork](http://www.summercamppro.com/wp-content/uploads/2010/05/wanted_forks.jpg)
+
++++
+
+<img alt-text="molecule to population" src='http://www.thestunningpost.com/wordpress/wp-content/uploads/2012/08/what-the-fork.jpg' width=400 height=256/>
+
 ---
 
 # Background
@@ -117,14 +125,6 @@ fork_loc = ft_findForks(forks, lost_at);
   - easily create minimal online presentation
 - Technical issues can easily be outsourced (GitCoin)
 - More understanding on the whereabouts of missing forks
-
-+++
-### No width & height markdown
-![donders image alt text](http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png)
-
-+++
-### width height html syntax
-<img alt-text="molecule to population" src='http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png' width=400 height=256/>
 
 ---
 
