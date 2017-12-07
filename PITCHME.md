@@ -112,6 +112,13 @@ fork_loc = ft_findForks(forks, lost_at);
 # Scientific Contribution
 
 +++
+# What we learn(t) from this process
+- We built a presentation template (GitPitch)
+  - easily create minimal online presentation
+- Technical issues can easily be outsourced (GitCoin)
+- More understanding on the whereabouts of missing forks
+
++++
 ### No width & height markdown
 ![donders image alt text](http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png)
 
@@ -119,23 +126,6 @@ fork_loc = ft_findForks(forks, lost_at);
 ### width height html syntax
 <img alt-text="molecule to population" src='http://www.ru.nl/publish/pages/796445/from_molecule_to_population_fw.png' width=400 height=256/>
 
-+++
-
-# What we learn(t) from this process
-- We built a presentation template (GitPitch)
-  - easily create minimal online presentation
-- Technical issues can easily be outsourced (GitCoin)
-- More understanding on the whereabouts of missing forks
-
 ---
 
 # May the forks be with you!
-
-
-+++
-
-## Don't forget about sporks...
-
-+++
-
-# JUST KIDDING
