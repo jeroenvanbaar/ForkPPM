@@ -34,6 +34,15 @@
 .reveal h1 {
     font-size: 2em;
 }
+.reveal h2{
+    font-size: 1.0em;
+}
+.reveal h2#ppm-december-7-2017 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 
 .reveal a {
     color: #E80C0D;
@@ -54,6 +63,11 @@
     margin: 20px 100px;
 }
 
+.reveal ul {
+    width: 100%;
+    padding: 0 50px;
+    text-align: left;
+}
 /* img */
 .reveal section img {
     border: 1px solid #AAAAAA;
