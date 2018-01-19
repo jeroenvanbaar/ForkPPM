@@ -1,5 +1,5 @@
-# On tridental (non-)ferromagnetic gourmandization instruments
-## PPM, December 7, 2017
+# Kicking the Habit
+## Making the move from Matlab to Python
 
 +++
 
